@@ -6,6 +6,10 @@
 
 [可信时间戳证书（黎曼猜想的证明中文论文20260102am0917_3.rar）](https://gitee.com/ni-chuangao/mathematical-conjecture-proof/blob/master/TSA-01-20260102789224579.jpg)
 
+Englist pdf:
+[Proof of the Riemann Hypothesis20250103-0352utc8_3.rar](https://gitee.com/ni-chuangao/mathematical-conjecture-proof/blob/master/Proof%20of%20the%20Riemann%20Hypothesis20250103-0352utc8_3.rar)
+
+
  **密码后面公布** 
 
 # 数学猜想证明
