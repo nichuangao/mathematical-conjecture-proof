@@ -1,11 +1,12 @@
 
-黎曼猜想证明（最新版）
+# 黎曼猜想证明（最新版）
+
 
 [黎曼猜想的证明中文论文20260102am0917_3.rar](https://gitee.com/ni-chuangao/mathematical-conjecture-proof/blob/master/%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E7%9A%84%E8%AF%81%E6%98%8E%E4%B8%AD%E6%96%87%E8%AE%BA%E6%96%8720260102am0917_3.rar)
 
 [可信时间戳证书（黎曼猜想的证明中文论文20260102am0917_3.rar）](https://gitee.com/ni-chuangao/mathematical-conjecture-proof/blob/master/TSA-01-20260102789224579.jpg)
 
-密码后面公布
+ **密码后面公布** 
 
 # 数学猜想证明
 
