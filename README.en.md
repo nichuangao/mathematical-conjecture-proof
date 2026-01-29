@@ -4,6 +4,5 @@ Intended for the storage of mathematical proofs, code, and related documentation
 
 
 Englist pdf:
-[Proof of the Riemann Hypothesis20250103-0352utc8_3.rar](https://gitee.com/ni-chuangao/mathematical-conjecture-proof/blob/master/Proof%20of%20the%20Riemann%20Hypothesis20250103-0352utc8_3.rar)
-
-[ProofoftheRiemannHypothesis20250103-0352utc8_3.rar_UniTrust TimeStamp Authentication Certificate](https://gitee.com/ni-chuangao/mathematical-conjecture-proof/blob/master/Proof%20of%20the%20Riemann%20Hypothesis20250103-0352utc8_3.rar_UniTrust%20TimeStamp%20Authentication%20Certificate.pdf)
+[一种基于函数的黎曼猜想证明_3ok.rar](https://gitee.com/ni-chuangao/mathematical-conjecture-proof/blob/master/%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8E%E5%87%BD%E6%95%B0%E7%9A%84%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E8%AF%81%E6%98%8E_3ok.rar)
+ 
