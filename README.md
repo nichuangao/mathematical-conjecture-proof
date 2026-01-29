@@ -1,15 +1,10 @@
 
 # 黎曼猜想证明（最新版）
+[一种基于函数的黎曼猜想证明_3ok.rar](https://gitee.com/ni-chuangao/mathematical-conjecture-proof/blob/master/%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8E%E5%87%BD%E6%95%B0%E7%9A%84%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E8%AF%81%E6%98%8E_3ok.rar)
 
+[一种基于函数的黎曼猜想证明_3ok.rar_可信时间戳认证证书.pdf](https://gitee.com/ni-chuangao/mathematical-conjecture-proof/raw/master/%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8E%E5%87%BD%E6%95%B0%E7%9A%84%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E8%AF%81%E6%98%8E_3ok.rar_%E5%8F%AF%E4%BF%A1%E6%97%B6%E9%97%B4%E6%88%B3%E8%AE%A4%E8%AF%81%E8%AF%81%E4%B9%A6.pdf)
 
-[黎曼猜想的证明中文论文20260102am0917_3.rar](https://gitee.com/ni-chuangao/mathematical-conjecture-proof/blob/master/%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E7%9A%84%E8%AF%81%E6%98%8E%E4%B8%AD%E6%96%87%E8%AE%BA%E6%96%8720260102am0917_3.rar)
-
-[可信时间戳证书（黎曼猜想的证明中文论文20260102am0917_3.rar）](https://gitee.com/ni-chuangao/mathematical-conjecture-proof/blob/master/TSA-01-20260102789224579.jpg)
-
-Englist pdf:
-[Proof of the Riemann Hypothesis20250103-0352utc8_3.rar](https://gitee.com/ni-chuangao/mathematical-conjecture-proof/blob/master/Proof%20of%20the%20Riemann%20Hypothesis20250103-0352utc8_3.rar)
-
-[ProofoftheRiemannHypothesis20250103-0352utc8_3.rar_UniTrust TimeStamp Authentication Certificate](https://gitee.com/ni-chuangao/mathematical-conjecture-proof/blob/master/Proof%20of%20the%20Riemann%20Hypothesis20250103-0352utc8_3.rar_UniTrust%20TimeStamp%20Authentication%20Certificate.pdf)
+ 
 
 
  **密码后面公布** 
@@ -18,7 +13,7 @@ Englist pdf:
 
 #### 介绍
 
-本人已经证明多个猜想，后面陆续公开论文预印本。
+
 
 用于数学猜想证明及代码等文档存储，本文档及目录下是预印本，尚未经过同行评审。
 
