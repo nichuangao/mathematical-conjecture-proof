@@ -1,5 +1,5 @@
 
-# 黎曼猜想证明（最新版）
+# 黎曼猜想证明（最新版2026-01-29 22:20）
 [一种基于函数的黎曼猜想证明_3ok.rar](https://gitee.com/ni-chuangao/mathematical-conjecture-proof/blob/master/%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8E%E5%87%BD%E6%95%B0%E7%9A%84%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E8%AF%81%E6%98%8E_3ok.rar)
 
 [一种基于函数的黎曼猜想证明_3ok.rar_可信时间戳认证证书.pdf](https://gitee.com/ni-chuangao/mathematical-conjecture-proof/raw/master/%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8E%E5%87%BD%E6%95%B0%E7%9A%84%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E8%AF%81%E6%98%8E_3ok.rar_%E5%8F%AF%E4%BF%A1%E6%97%B6%E9%97%B4%E6%88%B3%E8%AE%A4%E8%AF%81%E8%AF%81%E4%B9%A6.pdf)
